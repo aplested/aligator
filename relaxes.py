@@ -1313,24 +1313,3 @@ class CrExpt(ExperimentSetup):
         
         
 
-class RcjTrain(Train):
-    #NOT DONE YET
-    
-    #Subclass of train???
-    #P-init = lowconc
-    #Make trace container
-    #can have occup or p-open
-
-
-    #Add prepadding
-
-    def __init__(self):
-
-        for pulse in train:
-            pass
-
-        #Make on relax (pulse pts)
-        #Add to trace
-        #Make off relax
-        #Add to trace
-        #Add after-relax
